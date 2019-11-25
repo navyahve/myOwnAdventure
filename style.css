@@ -1,0 +1,24 @@
+h1 {font-family: Phosphate; font-size: 55px; color: #f74db1;}
+h2 {font-family: DIN Alternate; font-size: 45px; color: #4df7ad;}
+body {background-color: #eddfed;}
+h2  {background-color: #ea1f7a} 
+p { color: #ea1f7a; font-family: Arialblack; font-size: 40px;}
+h3 {font-family: Arial; font-size: 45px; color: #ea1f7a;}
+h4 {font-family: Arial; font-size: 45px; color: #ea1f7a;}
+img  {  max-width: 550px;
+  height: 550px; }
+
+ .coffee img{
+ 	width: 50%;
+ }
+
+ nav li{
+ 	list-style: none;
+ 	display: inline;
+ 	margin-left: 3%;
+ }
+
+ nav a{
+ 	text-decoration: none;
+ 	font-size: 30px;
+ 	color: #ab31aa;}
